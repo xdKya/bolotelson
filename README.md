@@ -1,1 +1,2 @@
-# bolotelson
+# synchronousBallMovement
+Ball moving synchronously
